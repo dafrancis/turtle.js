@@ -1,0 +1,30 @@
+            ___________
+  ___      < turtle.js >_
+ //_\\ _    -----------
+/_|_|_('>  /
+ "   "
+
+-= What is this =-
+
+What? Can't you tell? this is turtle.js. The combination of Turtles and
+JavaScript.
+
+-= Features =-
+Features are as follows:
+* Turtles
+* JavaScript
+Oh I guess it uses Canvas and HTML5 as well but that isn't important.
+
+-= How to use =-
+Make a new turtle like this:
+  var turtle = new Turtle();
+Your turtle can walk ANYWHERE (well not anywhere...)
+  turtle.walk(50); // Walk 50 pixels
+  turtle.turn(90); // Turn 90 degrees
+  turtle.jump(10, 150); // Jump to position x = 10, y = 150
+You can even have an actual turtle on the screen!
+  turtle.draw(); // TURTLES
+
+-= Credits =-
+
+Dafydd "Afal" Francis
